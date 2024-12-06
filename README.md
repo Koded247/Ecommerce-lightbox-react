@@ -26,9 +26,9 @@ See hover states for all interactive elements on the page
 
 ### Screenshot (desktop and mobile view)
 
-![desktop]()
+![desktop](/src/assets/LBdesktop.png)
 
-![mobile]()
+![active state](/src/assets/active.png)
 
 
 ### Links
