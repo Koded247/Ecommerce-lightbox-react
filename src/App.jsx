@@ -16,7 +16,7 @@ const App = () => {
       </main>
 
       {/* Optional: Add a Footer */}
-      <footer className="bg-gray-800 text-white text-center py-4">
+      <footer className="bg-gray-800 text-white text-center py-4 fixed bottom-0 right-0 left-0">
         <p>&copy; 2024 My E-commerce Site. All rights reserved.</p>
       </footer>
     </div>
